@@ -1,0 +1,806 @@
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.927139,40.865089]
+	},
+	"properties":{
+		"storeNumber":"7762",
+		"storeType":"STOREFRONT",
+		"address":"208 DYCKMAN ST",
+		"city":"MANHATTAN",
+		"state":"NY",
+		"zip":"10040",
+		"phone":"(212)569-2909",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/7762"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.919899,40.835136]
+	},
+	"properties":{
+		"storeNumber":"21653",
+		"storeType":"STOREFRONT",
+		"address":"86 E 167TH ST-SATELLITE",
+		"city":"BRONX",
+		"state":"NY",
+		"zip":"10452",
+		"phone":"(718)992-8642",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/21653"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.976669,40.895351]
+	},
+	"properties":{
+		"storeNumber":"3630",
+		"storeType":"STOREFRONT",
+		"address":"41/43 W PALISADE AVE",
+		"city":"ENGLEWOOD",
+		"state":"NJ",
+		"zip":"7631",
+		"phone":"(201)894-0048",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewjersey.com/3630"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.921176,40.867404]
+	},
+	"properties":{
+		"storeNumber":"20450",
+		"storeType":"STOREFRONT",
+		"address":"608 WEST 207TH STREET",
+		"city":"NEW YORK",
+		"state":"NY",
+		"zip":"10034",
+		"phone":"(212)304-3611",
+		"playplace":"N",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/20450"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.914978,40.844677]
+	},
+	"properties":{
+		"storeNumber":"22381",
+		"storeType":"FREESTANDING",
+		"address":"1 W MOUNT EDEN AVE",
+		"city":"BRONX",
+		"state":"NY",
+		"zip":"10452",
+		"phone":"(718)901-4930",
+		"playplace":"N",
+		"driveThru":"Y",
+		"archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/22381"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.915512,40.839523]
+	},
+	"properties":{
+		"storeNumber":"24583",
+		"storeType":"STOREFRONT",
+		"address":"101 E 170TH ST",
+		"city":"BRONX",
+		"state":"NY",
+		"zip":"10456",
+		"phone":"(718)410-9150",
+		"playplace":"N",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/24583"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.916203,40.850241]
+	},
+	"properties":{
+		"storeNumber":"23269",
+		"storeType":"STOREFRONT",
+		"address":"1745 UNIVERSITY AVE",
+		"city":"BRONX",
+		"state":"NY",
+		"zip":"10453",
+		"phone":"(718)294-1309",
+		"playplace":"Y",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/23269"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.05063,40.743754]
+	},
+	"properties":{
+		"storeNumber":"35671",
+		"storeType":"STOREFRONT",
+		"address":"260 CENTRAL AVE",
+		"city":"JERSEY CITY",
+		"state":"NJ",
+		"zip":"07307-3067",
+		"phone":"(201)418-8506",
+		"playplace":"N",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"Y"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.005234,40.715771]
+	},
+	"properties":{
+		"storeNumber":"4824",
+		"storeType":"STOREFRONT",
+		"address":"317 BROADWAY",
+		"city":"NEW YORK",
+		"state":"NY",
+		"zip":"10007",
+		"phone":"(212)732-6407",
+		"playplace":"N",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/4824"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.990517,40.736977]
+	},
+	"properties":{
+		"storeNumber":"2702",
+		"storeType":"STOREFRONT",
+		"address":"39 UNION SQ W",
+		"city":"NEW YORK",
+		"state":"NY",
+		"zip":"10003",
+		"phone":"(212)645-9079",
+		"playplace":"N",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/2702"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.044496,40.756358]
+	},
+	"properties":{
+		"storeNumber":"19694",
+		"storeType":"STOREFRONT",
+		"address":"737 SECAUCUS RD",
+		"city":"JERSEY CITY",
+		"state":"NJ",
+		"zip":"7047",
+		"phone":"(201)653-1057",
+		"playplace":"N",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"N",
+		"storeUrl":"http://www.mcnewjersey.com/19694"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.005142,40.72879]
+	},
+	"properties":{
+		"storeNumber":"23318",
+		"storeType":"STOREFRONT",
+		"address":"208 VARRICK ST",
+		"city":"NEW YORK",
+		"state":"NY",
+		"zip":"10014",
+		"phone":"(212)206-9991",
+		"playplace":"N",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"N",
+		"storeUrl":"http://www.mcnewyork.com/23318"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.001076,40.730804]
+	},
+	"properties":{
+		"storeNumber":"2767",
+		"storeType":"STOREFRONT",
+		"address":"136 W 3RD ST",
+		"city":"NEW YORK",
+		"state":"NY",
+		"zip":"10012",
+		"phone":"(212)674-2566",
+		"playplace":"Y",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/2767"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.993004,40.75251]
+	},
+	"properties":{
+		"storeNumber":"3078",
+		"storeType":"STOREFRONT",
+		"address":"490 8TH AVE","city":"MANHATTAN",
+		"state":"NY",
+		"zip":"10001",
+		"phone":"(212)947-0771",
+		"playplace":"N",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/3078"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.997078,40.747551]
+	},
+	"properties":{
+		"storeNumber":"3653",
+		"storeType":"STOREFRONT",
+		"address":"335 8TH AVE","city":"MANHATTAN",
+		"state":"NY",
+		"zip":"10001",
+		"phone":"(212)633-1107",
+		"playplace":"N",
+		"driveThru":"N",
+		"archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/3653"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.030396,40.739906]
+	},
+	"properties":{
+		"storeNumber":"3876",
+		"storeType":"STOREFRONT",
+		"address":"234 WASHINGTON ST","city":"HOBOKEN",
+		"state":"NJ",
+		"zip":"7030",
+		"phone":"(201)798-2078",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewjersey.com/3876"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.038509,40.727048]
+	},
+	"properties":{
+		"storeNumber":"18759",
+		"storeType":"MALL",
+		"address":"30 MALL DR W","city":"JERSEY CITY",
+		"state":"NJ",
+		"zip":"7310",
+		"phone":"(201)626-2211",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewjersey.com/18759"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.989188,40.750603]
+	},
+	"properties":{
+		"storeNumber":"25055",
+		"storeType":"STOREFRONT",
+		"address":"151 WEST 34TH STREET &7TH AVE.","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10001",
+		"phone":"(212)594-1964",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/25055"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.010612,40.71629]
+	},
+	"properties":{
+		"storeNumber":"11163",
+		"storeType":"STOREFRONT",
+		"address":"167 CHAMBERS ST (303 GREENWICH ST)","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10013",
+		"phone":"(212)608-2405",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/11163"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.999695,40.754272]
+	},
+	"properties":{
+		"storeNumber":"4489",
+		"storeType":"FREESTANDING",
+		"address":"427 10TH AVE & 34TH","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10001",
+		"phone":"(212)564-7115",
+		"playplace":"N",
+		"driveThru":"Y","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/4489"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.996674,40.737835]
+	},
+	"properties":{
+		"storeNumber":"2968",
+		"storeType":"STOREFRONT",
+		"address":"541 6TH AVE & 14TH ST","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10011",
+		"phone":"(212)463-8869",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/2968"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.993446,40.729202]
+	},
+	"properties":{
+		"storeNumber":"10407",
+		"storeType":"STOREFRONT",
+		"address":"724 BROADWAY","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10003",
+		"phone":"(212)529-9660",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/10407"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.99028,40.751209]
+	},
+	"properties":{
+		"storeNumber":"2276",
+		"storeType":"STOREFRONT",
+		"address":"429 7TH AVE","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10001",
+		"phone":"(212)736-7890",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/2276"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.992511,40.750383]
+	},
+	"properties":{
+		"storeNumber":"14658",
+		"storeType":"BUS/TRAIN",
+		"address":"PENN STATION/LOWER LEVEL","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10119",
+		"phone":"(212)736-6157",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/14658"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.001007,40.718628]
+	},
+	"properties":{
+		"storeNumber":"4682",
+		"storeType":"STOREFRONT",
+		"address":"262 CANAL ST","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10013",
+		"phone":"(212)941-5823",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/4682"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.993286,40.741928]
+	},
+	"properties":{
+		"storeNumber":"17480",
+		"storeType":"STOREFRONT",
+		"address":"686 6TH AVE","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10010",
+		"phone":"(212)604-0621",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/17480"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.990845,40.745995]
+	},
+	"properties":{
+		"storeNumber":"3835",
+		"storeType":"STOREFRONT",
+		"address":"809/811 6TH AVE/28TH","city":"MANHATTAN",
+		"state":"NY",
+		"zip":"10001",
+		"phone":"(212)463-9495",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/3835"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.167582,41.011359]
+	},
+	"properties":{
+		"storeNumber":"5642",
+		"storeType":"STOREFRONT",
+		"address":"327 FRANKLIN AVE","city":"WYCKOFF",
+		"state":"NJ",
+		"zip":"7481",
+		"phone":"(201)891-9730",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewjersey.com/5642"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.263145,41.085701]
+	},
+	"properties":{
+		"storeNumber":"12643",
+		"storeType":"FREESTANDING",
+		"address":"109 SKYLINE DR","city":"RINGWOOD",
+		"state":"NJ",
+		"zip":"7456",
+		"phone":"(973)962-9710",
+		"playplace":"N",
+		"driveThru":"Y","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewjersey.com/12643"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.708542,40.831188]
+	},
+	"properties":{
+		"storeNumber":"7843",
+		"storeType":"FREESTANDING",
+		"address":"293 RT 206","city":"FLANDERS",
+		"state":"NJ",
+		"zip":"7836",
+		"phone":"(973)584-3853",
+		"playplace":"Y",
+		"driveThru":"Y","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewjersey.com/7843"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.706843,40.883858]
+	},
+	"properties":{
+		"storeNumber":"27786",
+		"storeType":"FREESTANDING",
+		"address":"30 INTERNATIONAL DR, SOUTH","city":"MOUNT OLIVE",
+		"state":"NJ",
+		"zip":"7828",
+		"phone":"(973)448-9107",
+		"playplace":"N",
+		"driveThru":"Y","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewjersey.com/27786"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.989243,40.763363]
+	},
+	"properties":{
+		"storeNumber":"18879",
+		"storeType":"STOREFRONT",
+		"address":"735 9TH AVE","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10019",
+		"phone":"(212)974-7472",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/18879"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.988144,40.754654]
+	},
+	"properties":{
+		"storeNumber":"4019",
+		"storeType":"STOREFRONT",
+		"address":"556 7TH AVE","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10018",
+		"phone":"(212)869-1918",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/4019"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.98185,40.757629]
+	},
+	"properties":{
+		"storeNumber":"14106",
+		"storeType":"STOREFRONT",
+		"address":"1188 6TH AVE","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10036",
+		"phone":"(212)944-2720",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/14106"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.983276,40.76585]
+	},
+	"properties":{
+		"storeNumber":"2446",
+		"storeType":"STOREFRONT",
+		"address":"946 8TH AVE &  56TH","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10019",
+		"phone":"(212)586-6676",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/2446"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.988945,40.758118]
+	},
+	"properties":{
+		"storeNumber":"16658",
+		"storeType":"STOREFRONT",
+		"address":"688 8TH AVE. @ 44TH","city":"NEW YORK",
+		"state":"NY",
+		"zip":"10036",
+		"phone":"(212)221-3863",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/16658"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.984779,40.758728]
+	},
+	"properties":{
+		"storeNumber":"6971",
+		"storeType":"STOREFRONT",
+		"address":"1560 BROADWAY","city":"MANHATTAN",
+		"state":"NY",
+		"zip":"10036",
+		"phone":"(212)921-8900",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/6971"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.983742,40.762222]
+	},
+	"properties":{
+		"storeNumber":"18884",
+		"storeType":"STOREFRONT",
+		"address":"1651 BROADWAY","city":"MANHATTAN",
+		"state":"NY",
+		"zip":"10019",
+		"phone":"(212)586-5530",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/18884"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-73.987987,40.756345]
+	},
+	"properties":{
+		"storeNumber":"26066",
+		"storeType":"STOREFRONT",
+		"address":"220 WEST 42ND STREET & 7TH AVE",
+		"city":"NEW YORK",
+		"state":"NY",
+		"zip":"10036",
+		"phone":"(212)840-6250",
+		"playplace":"N",
+		"driveThru":"N","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewyork.com/26066"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.470398,40.485802]
+	},
+	"properties":{
+		"storeNumber":"1489",
+		"storeType":"FREESTANDING",
+		"address":"666 SOMERSET ST",
+		"city":"NEW BRUNSWICK",
+		"state":"NJ",
+		"zip":"8901",
+		"phone":"(732)247-9814",
+		"playplace":"N",
+		"driveThru":"Y","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewjersey.com/1489"
+	}
+},
+{
+	"type":"Feature",
+	"geometry":{
+		"type":"Point",
+		"coordinates":[-74.609363,40.580616]
+	},
+	"properties":{
+		"storeNumber":"32514",
+		"storeType":"FREESTANDING",
+		"address":"950 RTE. 22 EAST",
+		"city":"SOMERVILLE",
+		"state":"NJ",
+		"zip":"8876",
+		"phone":"(908)575-7940",
+		"playplace":"N",
+		"driveThru":"Y","archCard":"Y",
+		"freeWifi":"Y",
+		"storeUrl":"http://www.mcnewjersey.com/32514"
+	}
+},
