@@ -19,26 +19,34 @@ class GoogleMapComponent extends Component{
 		}
 	}
 	
-	componentDidUpdate(nextProps, nextState){
+	// shouldComponentUpdate(nextProps, nextState){
 
 
-		console.log(nextProps, nextState)
-		// if(this.props.destination != this.state.destination){
-		// 	this.setState({
-		// 		destination: new google.maps.LatLng(this.props.destination[1], this.props.destination[0])
-		// 	})
+	// 	console.log(nextProps, nextState)
+	// 	if(this.props.destination != null){
+	// 		this.setState({
+	// 			destination: new google.maps.LatLng(this.props.destination[1], this.props.destination[0])
+	// 		})
 
-		// }
-		return false;
+	// 	}
+	// 	return false
+	// }
+	componentWillReceiveProps(nextProps){
+		// console.log(nextProps)
+		if(nextProps.destination){
+			this.setState({
+				destination: new google.maps.LatLng(nextProps.destination[1], nextProps.destination[0])
+			})
+		}
+
 	}
 
-	componentDidMount(){
-		// Directions Services
 
+	componentDidUpdate(){
+		if(this.state.destination && this.state.origin){
 
-		const DirectionsService = new google.maps.DirectionsService();
+			const DirectionsService = new google.maps.DirectionsService();
 
-		if(this.state.destination != null){
 			DirectionsService.route({
 				origin: this.state.origin,
 				destination: this.state.destination,
@@ -55,7 +63,12 @@ class GoogleMapComponent extends Component{
 					console.error(`error fetching directions ${result}`);
 				}
 			});
-		}
+
+		}		
+	}
+
+	componentDidMount(){
+		// Directions Services
 		
 
 		// End Directions Services
@@ -97,6 +110,15 @@ class GoogleMapComponent extends Component{
 		})
 	}
 
+	renderDirections(){
+		if(this.props.destination != this.state.destination){
+
+			return(
+				this.state.directions && <DirectionsRenderer directions={this.state.directions} />
+			)
+		}
+	}
+
 
 
 	render(){
@@ -115,7 +137,7 @@ class GoogleMapComponent extends Component{
 			      key={ marker._id }  />
 			    ))}
 
-			    {this.state.directions && <DirectionsRenderer directions={this.state.directions} />}
+			    {this.renderDirections()}
 			</GoogleMap>
 		)
 		
