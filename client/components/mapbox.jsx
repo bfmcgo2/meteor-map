@@ -3,6 +3,7 @@ import ReactMapboxGl, { Layer, Feature, Marker } from "react-mapbox-gl";
 import { createContainer } from 'meteor/react-meteor-data';
 import { McDonalds } from '../../imports/collections/McDonalds';
 import { McDonalds2 } from '../../imports/collections/McDonalds2';
+import { Subways } from '../../imports/collections/Subways';
 import { Link } from 'react-router-dom';
 
 
@@ -18,24 +19,24 @@ class Mapbox extends Component{
 	
 
 	renderPins(){
-		if(!this.props.mcdonalds2){
+		if(!this.props.subways){
 			return
 		}else{
-			// console.log(this.props.match)
-			var pins = this.props.mcdonalds2.map(pin=>{
+			console.log(this.props)
+			var pins = this.props.subways.map(pin=>{
 				const url = `/pin/${pin._id._str}`;
-				// console.log(url)
+				// console.log(pin.geometry.coordinates)
 				if(pin.activeMachine === true){
 					console.log("yay")
 					return(
 						<Marker
-						  coordinates={pin.coordinates}
+						  coordinates={pin.geometry.coordinates}
 						  anchor="bottom"
 						  key= {pin._id._str}
 						  >
 						  <Link to={url}>
 
-						  	<img className="mcdonalds-img" src="/img/mcdonalds-01.svg"/>	
+						  	<img className="mcdonalds-img" src="/img/california.jpg"/>	
 						  </Link>
 						  
 						</Marker>
@@ -44,7 +45,7 @@ class Mapbox extends Component{
 					console.log("nay")
 					return(
 						<Marker
-						  coordinates={pin.coordinates}
+						  coordinates={pin.geometry.coordinates}
 						  anchor="bottom"
 						  key= {pin._id._str}
 						  >
@@ -97,9 +98,11 @@ class Mapbox extends Component{
 export default createContainer(()=>{
 	Meteor.subscribe('mcdonalds');
 	Meteor.subscribe('mcdonalds2');
+	Meteor.subscribe('subways');
 
 	return{
 		mcdonalds:McDonalds.find({}).fetch(),
-		mcdonalds2:McDonalds2.find({}).fetch()
+		mcdonalds2:McDonalds2.find({}).fetch(),
+		subways: Subways.find({}).fetch()
 	}
 }, Mapbox);

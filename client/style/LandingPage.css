@@ -1,0 +1,24 @@
+.LandingPage{
+	position:fixed;
+	height:100vh;
+	width:100%;
+	background:rgba(0, 0, 0, 0.7);
+	top:0;
+	left:0;
+}
+
+.LandingPage__CTA{
+	position:absolute;
+	top:50%;
+	left:50%;
+	-webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+}
+
+.Landing_Page__CTA.row{
+	margin:0;
+	padding:0;
+}
